@@ -49,3 +49,28 @@ Existen una gran infinidad de formas para preparar pizza, cada una con sus propi
 7. Añadir oregano al gusto.
 8. Cocinar en el horno por 5 min a 180°C
 9. Retirar y servir 
+
+
+## Pizza de Cami
+
+Pizza hecha por Cami
+
+### Ingredientes
+(8 porciones)
+
+* 1 Masa de pizza
+* 1 Paquete salsa de tomate
+* 1 Aceitunas
+* 10 Láminas de queso
+* 1 Paquete de choclo congelado
+* 1/4 Kg pepperoni
+* Orégano
+* Merkén
+
+### Preparación
+
+1. Pre-calientar el horno a temperatura media
+2. Distribuya de forma uniforme salsa de tomate en la masa de pizza, posteriormente agregar el queso, el choclo, el pepperoni, el orégano y el merkén
+3. Ingrese la pizza al horno y espere de 20 a 25 minutos
+4. Retire la pizza del horno evitando quemarse
+5. Cortar en 8 pedazos y servir
